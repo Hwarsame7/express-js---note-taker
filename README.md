@@ -16,8 +16,9 @@
 This project uses Node.js and Express.js to locally host a browser note taking application. This project can be used by anyone. To use this application the user simply has to apply a title to the note, add text, click save and you are finished. There is also a delete button to remove completed notes once you are done with the task. 
 
 ## Visuals
-![Note taker opening page](<Screenshot 2023-12-14 at 01.45.20-1.png>)
-![Note taker with added notes](<Screenshot 2023-12-14 at 01.53.11.png>)
+<img width="1440" alt="Screenshot 2024-02-28 at 22 38 09" src="https://github.com/Hwarsame7/express-js---note-taker/assets/146027409/c9e3b2b6-dfa2-46f6-ac1d-2d5777933150">
+
+<img width="1440" alt="Screenshot 2024-02-28 at 22 38 14" src="https://github.com/Hwarsame7/express-js---note-taker/assets/146027409/faff54b1-aef1-4b60-ad19-dd724bea440a">
 
 ## Technologies Used
 
