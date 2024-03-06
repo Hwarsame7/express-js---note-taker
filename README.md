@@ -20,6 +20,9 @@ This project uses Node.js and Express.js to locally host a browser note taking a
 
 <img width="1440" alt="Screenshot 2024-02-28 at 22 38 14" src="https://github.com/Hwarsame7/express-js---note-taker/assets/146027409/faff54b1-aef1-4b60-ad19-dd724bea440a">
 
+## Deplpoyment 
+HEROKU - https://deploying-note-taker-b9948a525ba5.herokuapp.com/notes
+
 ## Technologies Used
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
