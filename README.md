@@ -23,6 +23,8 @@ This project uses Node.js and Express.js to locally host a browser note taking a
 ## Deplpoyment 
 HEROKU - https://deploying-note-taker-b9948a525ba5.herokuapp.com/notes
 
+GITHUB URL - https://hwarsame7.github.io/express-js---note-taker/
+
 ## Technologies Used
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
